@@ -11,12 +11,12 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.12.2",
-            "name": "WesterosCraft 1.12.2 Production Server",
-            "description": "New 1.12.2 production server.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.6.5",
-            "address": "mc.westeroscraft.com:25565",
+            "id": "Nuclearwar_Event_Match",
+            "name": "핵전쟁 이벤트 매치",
+            "description": "Nuclearwar Event Match Server",
+            "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
+            "version": "1.0.0",
+            "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
