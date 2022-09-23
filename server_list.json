@@ -239,13 +239,13 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.2.1-111",
-                    "name": "WesterosBlocks",
+                    "id": "io.github.songbuild:Timer-1.12.2-191025",
+                    "name": "Timer",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 18288340,
-                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar"
+                        "size": 20472,
+                         "MD5": "c7de04d16229d4df0e9370262a27c6ad",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/Timer-1.12.2-191025.jar"
                     }
                 },
                 {
@@ -447,12 +447,12 @@
             ]
         },        
         {
-            "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
-            "description": "Tests for our version change to 1.12.2 are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.6.5",
-            "address": "mc.westeroscraft.com:4445",
+            "id": "Nuclearwar_Event_Match_Test",
+            "name": "핵전쟁 이벤트 매치 테스트용",
+            "description": "해당 콘텐츠는 테스트용으로 선택하지 말아주세요.",
+            "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon2.png",
+            "version": "1.0.0",
+            "address": "serverside.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Test Server",
