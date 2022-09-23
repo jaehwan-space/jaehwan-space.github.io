@@ -239,7 +239,7 @@
                     ]
                 },
                 {
-                    "id": "io.github.songbuild:Timer-1.12.2-191025",
+                    "id": "io.github.songbuild00:timer:191025",
                     "name": "Timer",
                     "type": "ForgeMod",
                     "artifact": {
