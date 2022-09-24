@@ -27,12 +27,12 @@
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859",
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4466108,
-                        "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
+                        "size": 4884700,
+                        "MD5": "90734a5a713e24902d24c45c15caa42c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
                     },
                     "subModules": [
