@@ -9,8 +9,7 @@
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
-    "servers": [
-        {
+    "servers": [{
             "id": "Nuclearwar_Event_Match",
             "name": "핵전쟁 이벤트 매치",
             "description": "Nuclearwar Event Match Server",
@@ -25,8 +24,7 @@
             },
             "mainServer": false,
             "autoconnect": true,
-            "modules": [
-                {
+            "modules": [{
                     "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
@@ -35,8 +33,7 @@
                         "MD5": "90734a5a713e24902d24c45c15caa42c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "net.minecraft:launchwrapper:1.12",
                             "name": "Mojang (LaunchWrapper)",
                             "type": "Library",
@@ -45,8 +42,7 @@
                                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.ow2.asm:asm-all:5.2",
                             "name": "Mojang (ASM)",
                             "type": "Library",
@@ -55,8 +51,7 @@
                                 "MD5": "f5ad16c7f0338b541978b0430d51dc83",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "jline:jline:2.13",
                             "name": "Mojang (jline)",
                             "type": "Library",
@@ -65,8 +60,7 @@
                                 "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-library:2.11.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-library)",
                             "type": "Library",
@@ -75,8 +69,7 @@
                                 "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-compiler)",
                             "type": "Library",
@@ -85,8 +78,7 @@
                                 "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
                             "name": "Minecraft Forge (scala-actors-migration)",
                             "type": "Library",
@@ -95,8 +87,7 @@
                                 "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
                             "name": "Minecraft Forge (scala-continuations-library)",
                             "type": "Library",
@@ -105,8 +96,7 @@
                                 "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
                             "name": "Minecraft Forge (scala-continuations-plugin)",
                             "type": "Library",
@@ -115,8 +105,7 @@
                                 "MD5": "a8232db22a72a981de6b1399eb86dff7",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-parser-combinators)",
                             "type": "Library",
@@ -125,8 +114,7 @@
                                 "MD5": "2e50a7df17680daadacca69f07f8a16d",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-reflect)",
                             "type": "Library",
@@ -135,8 +123,7 @@
                                 "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-swing_2.11:1.0.1",
                             "name": "Minecraft Forge (scala-swing)",
                             "type": "Library",
@@ -145,8 +132,7 @@
                                 "MD5": "1d360289e697022a3f57abaad344b28f",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
                             "name": "Minecraft Forge (scala-xml)",
                             "type": "Library",
@@ -155,8 +141,7 @@
                                 "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
                             "name": "Minecraft Forge (akka-actor)",
                             "type": "Library",
@@ -165,8 +150,7 @@
                                 "MD5": "25cb22c3078e9fb3f7a861c912924862",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "com.typesafe:config:1.2.1@jar.pack.xz",
                             "name": "Minecraft Forge (typesafe-config)",
                             "type": "Library",
@@ -175,8 +159,7 @@
                                 "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "lzma:lzma:0.0.1",
                             "name": "Mojang (LZMA)",
                             "type": "Library",
@@ -185,8 +168,7 @@
                                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "net.sf.trove4j:trove4j:3.0.3",
                             "name": "Trove4J",
                             "type": "Library",
@@ -195,8 +177,7 @@
                                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "java3d:vecmath:1.5.2",
                             "name": "Vecmath",
                             "type": "Library",
@@ -205,8 +186,7 @@
                                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
                             "name": "Jopt-simple",
                             "type": "Library",
@@ -215,8 +195,7 @@
                                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.apache.maven:maven-artifact:3.5.3",
                             "name": "maven-artifact",
                             "type": "Library",
@@ -225,8 +204,7 @@
                                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "net.minecraftforge:MercuriusUpdater:1.12.2",
                             "name": "MercuriusUpdater",
                             "type": "Library",
@@ -237,8 +215,7 @@
                             }
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "com.radixshock:classiccombat:1.0.1",
                     "name": "ClassicCombat",
                     "type": "ForgeMod",
@@ -247,18 +224,16 @@
                         "MD5": "98c0ba7ffbd0a52d22f1b6d8444093bc",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/ClassicCombat-1.0.1.jar"
                     }
-                },
-				{
+                }, {
                     "id": "com.creativemd:creativecore:1.10.65-MC1.12.2",
                     "name": "CreativeCore",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1290012,
-                         "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745",
+                        "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/CreativeCore_v1.10.65_mc1.12.2.jar"
                     }
-                },
-				{
+                }, {
                     "id": "lumien:custommainmenu:2.0.9.1-MC1.12.2",
                     "name": "CustomMainMenu",
                     "type": "ForgeMod",
@@ -267,8 +242,7 @@
                         "MD5": "c12200ad89f9399d5bdcbe9da7900bb9",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/CustomMainMenu-MC1.12.2-2.0.9.1.jar"
                     }
-                },
-				{
+                }, {
                     "id": "noppes:npcs:05Jul20)",
                     "name": "CustomNPCs",
                     "type": "ForgeMod",
@@ -277,8 +251,7 @@
                         "MD5": "3ab1a5c4b069d574631da5bc1880ebf7",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/CustomNPCs_1.12.2-(05Jul20).jar"
                     }
-                },				
-			    {
+                }, {
                     "id": "forgelin:forgelin:1.8.4",
                     "name": "Forgelin",
                     "type": "ForgeMod",
@@ -287,8 +260,7 @@
                         "MD5": "2da79fce72265eab0541e565636d389d",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/Forgelin-1.8.4.jar"
                     }
-                },
-				{
+                }, {
                     "id": "xyz.domi1819:invisiblights:3.2-10",
                     "name": "invisiblights",
                     "type": "ForgeMod",
@@ -297,8 +269,7 @@
                         "MD5": "09575071a1c20e0ab30db24159651b25",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/invisiblights-3.2-10.jar"
                     }
-                },	
-				{
+                }, {
                     "id": "creo.mod:koreanchat:1.9-1.12",
                     "name": "koreanchat-creo",
                     "type": "ForgeMod",
@@ -307,8 +278,7 @@
                         "MD5": "91492de16021a4f7018eb5d523f45fc2",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/koreanchat-creo-1.12-1.9.jar"
                     }
-                },	
-				{
+                }, {
                     "id": "mchorse:mclib:2.4-1.12.2",
                     "name": "mclib",
                     "type": "ForgeMod",
@@ -317,8 +287,7 @@
                         "MD5": "5a5e9b994ab2532173858f8af962bc6c",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/mclib-2.4-1.12.2.jar"
                     }
-                },	
-				{
+                }, {
                     "id": "lazygom:musicplay:181229-1.12.2",
                     "name": "musicplay",
                     "type": "ForgeMod",
@@ -327,8 +296,7 @@
                         "MD5": "91492de16021a4f7018eb5d523f45fc2",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
-                },				
-                {
+                }, {
                     "id": "com.chickenskin:nuclearwarmod:3.6-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
@@ -337,8 +305,7 @@
                         "MD5": "b3592d8f6e50da49a88c792878127d08",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarReturns-1.12.2-3.6-client.jar"
                     }
-                },		
-                {
+                }, {
                     "id": "com.creativemd.opf:onlinepicframe:1.5.0-pre1-MC1.12.2",
                     "name": "OnlinePicFrame",
                     "type": "ForgeMod",
@@ -347,8 +314,7 @@
                         "MD5": "f893cc9f646633a93af60e79dc295f96",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar"
                     }
-                },				
-                {
+                }, {
                     "id": "net.optifine:optifine:1.12.2_HD_U_G5",
                     "name": "Optifine",
                     "type": "ForgeMod",
@@ -357,8 +323,7 @@
                         "MD5": "54e561e441192cf009803ae95873c5d0",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/OptiFine_1.12.2_HD_U_G5.jar"
                     }
-                },
-                {
+                }, {
                     "id": "lumien:resourceloader:1.5.3-MC1.12.1",
                     "name": "ResourceLoader",
                     "type": "ForgeMod",
@@ -367,8 +332,7 @@
                         "MD5": "51141e882f96ce756b9b3d25f2acdf57",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/ResourceLoader-MC1.12.1-1.5.3.jar"
                     }
-                },				
-                {
+                }, {
                     "id": "bre:smoothfont:2.1.2-mc1.12.2",
                     "name": "SmoothFont",
                     "type": "ForgeMod",
@@ -377,8 +341,7 @@
                         "MD5": "696c2cab0d01b90e33f6c85277f1ea83",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/SmoothFont-mc1.12.2-2.1.2.jar"
                     }
-                },
-                {
+                }, {
                     "id": "lazygom:videoview:2005070-1.12.2",
                     "name": "VideoView",
                     "type": "ForgeMod",
@@ -387,8 +350,7 @@
                         "MD5": "95972f3086e6ad296fce33df87f6fbf3",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
                     }
-                },	
-                {
+                }, {
                     "id": "org.blockartistry:dynsurround:3.6.1.0-1.12.2",
                     "name": "DynamicSurroundings",
                     "type": "ForgeMod",
@@ -400,8 +362,7 @@
                         "MD5": "1a0d50a34941865ff091a492e0612502",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/DynamicSurroundings.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "dsurround.cfg",
                             "name": "DynamicSurroundings General Configuration File",
                             "type": "File",
@@ -410,8 +371,7 @@
                                 "path": "/config/dsurround/dsurround.cfg",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/config/dsurround/dsurround.cfg"
                             }
-                        },
-                        {
+                        }, {
                             "id": "westeros.json",
                             "name": "DynamicSurroundings WesterosCraft Configuration File",
                             "type": "File",
@@ -423,8 +383,7 @@
                             }
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "octarine-noise:betterfoliage:1.12-2.2.0",
                     "name": "BetterFoliage",
                     "type": "ForgeMod",
@@ -436,8 +395,7 @@
                         "MD5": "e05a720c5900b9bac4e01179abe8eef6",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/BetterFoliage.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "betterfoliage.cfg",
                             "name": "BetterFoliage Configuration File",
                             "type": "File",
@@ -449,8 +407,7 @@
                             }
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "xaeros:minimap:1.12.2-20.15.0",
                     "name": "XaerosMinimap",
                     "type": "ForgeMod",
@@ -462,8 +419,7 @@
                         "MD5": "cc12cfe20febd1404345f5339e522cda",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/Xaeros_Minimap.jar"
                     }
-                },
-                {
+                }, {
                     "id": "com.github.hexomod:worldedit-cui-fe3:1.12.2-3.0.4",
                     "name": "WorldEditCUI",
                     "type": "ForgeMod",
@@ -476,22 +432,1308 @@
                         "MD5": "0807a7fcf26b50b23288daecc5ee6ae4",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/worldeditcuife.jar"
                     }
-                },
-                {
-                    "id": "com.mumfrey:macrokeybindmod:1.12.2-2.0.3.204",
-                    "name": "Macro/Keybind Mod",
-                    "type": "ForgeMod",
-                    "required": {
-                        "value": false,
-                        "def": false
-                    },
+                }, {
+                    "id": "config/CustomMainMenu",
+                    "name": "CustomMainMenu_Setting_File",
+                    "type": "File",
                     "artifact": {
-                        "size": 87274,
-                        "MD5": "07577bfcc7acea868d56ad058b4b793e",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/MacroKey_Keybinding.jar"
+                        "size": 6581,
+                        "path": "config/CustomMainMenu/mainmenu.json",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/CustomMainMenu/mainmenu.json"
                     }
-                },
-				{
+                }, {
+                    "id": "config/smoothfont",
+                    "name": "smoothfont_Setting_File",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "config/smoothfont/smoothfont.cfg",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/smoothfont/smoothfont.cfg"
+                    }
+                }, {
+                    "id": "music",
+                    "name": "music-minigame",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/minigame.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/minigame.wav"
+                    }
+                }, {
+                    "id": "music",
+                    "name": "music-open",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/open.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/open.wav"
+                    }
+                }, {
+                    "id": "music",
+                    "name": "music-over",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/over.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/over.wav"
+                    }
+                }, {
+                    "id": "music",
+                    "name": "music-over",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/over.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/over.wav"
+                    }
+                }, {
+                    "id": "music",
+                    "name": "music-war",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/war.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war.wav"
+                    }
+                }, {
+                    "id": "resource/mainmenu",
+                    "name": "mainmenuresources",
+                    "type": "File",
+                    "artifact": {
+                        "size": 20419,
+                        "path": "resources/mianmeun/logo.png",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/logo.png"
+                    },
+                    "subModules": [{
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-1",
+                            "type": "File",
+                            "artifact": {
+                                "size": 12323,
+                                "path": "resources/mianmeun/multi.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/multi.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-2",
+                            "type": "File",
+                            "artifact": {
+                                "size": 1439,
+                                "path": "resources/mianmeun/option.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/option.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-3",
+                            "type": "File",
+                            "artifact": {
+                                "size": 12323,
+                                "path": "resources/mianmeun/single.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/single.png"
+                            }
+                        } {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/0.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/0.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/1.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/1.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/2.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/2.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/3.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/3.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/4.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/4.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/5.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/5.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/6.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/6.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/7.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/7.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/8.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/8.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/9.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/9.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/10.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/10.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/11.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/11.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/12.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/12.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/13.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/13.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/14.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/14.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/15.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/15.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/16.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/16.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/17.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/17.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/18.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/18.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/19.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/19.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/20.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/20.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/21.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/21.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/22.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/22.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/23.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/23.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/24.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/24.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/25.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/25.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/26.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/26.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/27.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/27.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/28.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/28.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/29.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/29.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/30.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/30.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/31.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/31.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/32.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/32.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/33.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/33.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/34.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/34.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/35.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/35.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/36.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/36.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/37.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/37.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/38.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/38.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/39.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/39.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/40.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/40.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/41.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/41.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/42.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/42.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/43.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/43.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/44.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/44.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/45.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/45.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/46.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/46.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/47.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/47.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/48.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/48.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/49.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/49.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/50.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/50.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/51.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/51.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/52.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/52.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/53.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/53.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/54.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/54.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/55.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/55.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/56.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/56.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/57.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/57.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/58.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/58.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/59.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/59.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/60.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/60.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/61.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/61.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/62.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/62.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/63.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/63.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/64.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/64.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/65.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/65.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/66.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/66.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/67.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/67.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/68.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/68.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/69.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/69.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/70.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/70.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/71.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/71.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/72.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/72.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/73.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/73.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/74.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/74.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/75.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/75.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/76.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/76.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/77.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/77.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/78.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/78.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/79.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/79.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/80.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/80.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/81.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/81.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/82.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/82.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/83.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/83.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/84.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/84.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/85.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/85.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/86.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/86.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/87.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/87.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/88.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/88.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/89.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/89.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/90.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/90.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/91.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/91.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/92.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/92.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/93.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/93.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/94.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/94.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/95.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/95.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/96.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/96.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/97.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/97.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/98.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/98.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/99.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/99.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/100.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/100.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/101.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/101.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/102.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/102.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/103.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/103.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/104.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/104.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/105.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/105.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/106.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/106.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/107.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/107.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/108.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/108.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/109.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/109.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/110.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/110.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/111.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/111.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/112.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/112.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/113.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/113.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/114.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/114.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/115.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/115.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/116.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/116.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/117.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/117.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/118.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/118.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/119.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/119.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/120.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/120.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/121.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/121.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/122.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/122.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/123.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/123.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/124.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/124.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/125.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/125.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/126.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/126.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/127.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/127.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/128.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/128.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/129.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/129.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/130.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/130.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/131.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/131.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/132.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/132.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/133.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/133.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/134.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/134.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/135.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/135.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/136.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/136.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/137.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/137.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/138.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/138.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/139.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/139.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/140.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/140.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/141.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/141.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/142.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/142.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/143.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/143.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/144.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/144.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/145.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/145.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/146.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/146.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/147.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/147.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/148.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/148.png"
+                            }
+                        }, {
+                            "id": "resource/mainmenu",
+                            "name": "mainmenuresources-background",
+                            "type": "File",
+                            "artifact": {
+                                "path": "resources/mianmeun/background/149.png",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/149.png"
+                            }
+                        },
+                    ]
+                }, {
                     "id": "com.chickenskin:nuclearwar_shaderpack:1.0.0",
                     "name": "ChickenSkin Nuclearwar_Event_Match Sharder",
                     "type": "File",
@@ -501,20 +1743,18 @@
                         "path": "shaderpacks/BSLStandardv6.1.1.zip",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/shaderpacks/BSLStandardv6.1.1.zip"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "com.chickenskin:nuclearwar_shaderpack:1.0.0",
                             "name": "Shaders Setting File",
                             "type": "File",
-							"artifact": {
-								"size": 276,
-								"path": "shaderpacks/BSLStandardv6.1.1.zip.txt",
-								"url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/shaderpacks/BSLStandardv6.1.1.zip.txt"
-							}
+                            "artifact": {
+                                "size": 276,
+                                "path": "shaderpacks/BSLStandardv6.1.1.zip.txt",
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/shaderpacks/BSLStandardv6.1.1.zip.txt"
+                            }
                         }
                     ]
-                },
-				{
+                }, {
                     "id": "com.chickenskin:Nuclearwar_ResourcePack:1.0.0",
                     "name": "Nuclearwar Resource Pack",
                     "type": "File",
@@ -524,18 +1764,34 @@
                         "path": "resourcepacks/NUCLEAR_WAR.zip",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resourcepacks/NUCLEAR_WAR.zip"
                     }
-                },
-                {
+                }, {
                     "id": "options.txt",
                     "name": "Default Client Options",
                     "type": "File",
                     "artifact": {
                         "size": 2383,
                         "path": "options.txt",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt" 
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt"
                     }
-                },
-                {
+                }, {
+                    "id": "optionsof.txt",
+                    "name": "Default Client optionsof",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1436,
+                        "path": "optionsof.txt",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/optionsof.txt"
+                    }
+                }, {
+                    "id": "optionsof.txt",
+                    "name": "Default Client optionsof",
+                    "type": "File",
+                    "artifact": {
+                        "size": 367,
+                        "path": "optionsof.txt",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/optionsof.txt"
+                    }
+                }, {
                     "id": "servers.dat",
                     "name": "Saved Client Servers",
                     "type": "File",
@@ -543,12 +1799,11 @@
                         "size": 3171,
                         "MD5": "14aa1b1803f4b7c1b3066d018e114c6f",
                         "path": "servers.dat",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/servers.dat" 
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/servers.dat"
                     }
                 }
             ]
-        },        
-        {
+        }, {
             "id": "Nuclearwar_Event_Match_Test",
             "name": "핵전쟁 이벤트 매치 테스트용",
             "description": "해당 콘텐츠는 테스트용으로 선택하지 말아주세요.",
@@ -563,8 +1818,7 @@
             },
             "mainServer": false,
             "autoconnect": true,
-            "modules": [
-                {
+            "modules": [{
                     "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
@@ -573,8 +1827,7 @@
                         "MD5": "90734a5a713e24902d24c45c15caa42c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "net.minecraft:launchwrapper:1.12",
                             "name": "Mojang (LaunchWrapper)",
                             "type": "Library",
@@ -583,8 +1836,7 @@
                                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.ow2.asm:asm-all:5.2",
                             "name": "Mojang (ASM)",
                             "type": "Library",
@@ -593,8 +1845,7 @@
                                 "MD5": "f5ad16c7f0338b541978b0430d51dc83",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "jline:jline:2.13",
                             "name": "Mojang (jline)",
                             "type": "Library",
@@ -603,8 +1854,7 @@
                                 "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-library:2.11.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-library)",
                             "type": "Library",
@@ -613,8 +1863,7 @@
                                 "MD5": "379c15c4f724421c6d5d7aecedaf87a6",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-library-2.11.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-compiler)",
                             "type": "Library",
@@ -623,8 +1872,7 @@
                                 "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
                             "name": "Minecraft Forge (scala-actors-migration)",
                             "type": "Library",
@@ -633,8 +1881,7 @@
                                 "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
                             "name": "Minecraft Forge (scala-continuations-library)",
                             "type": "Library",
@@ -643,8 +1890,7 @@
                                 "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
                             "name": "Minecraft Forge (scala-continuations-plugin)",
                             "type": "Library",
@@ -653,8 +1899,7 @@
                                 "MD5": "a8232db22a72a981de6b1399eb86dff7",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-parser-combinators)",
                             "type": "Library",
@@ -663,8 +1908,7 @@
                                 "MD5": "2e50a7df17680daadacca69f07f8a16d",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
                             "name": "Minecraft Forge (scala-reflect)",
                             "type": "Library",
@@ -673,8 +1917,7 @@
                                 "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-swing_2.11:1.0.1",
                             "name": "Minecraft Forge (scala-swing)",
                             "type": "Library",
@@ -683,8 +1926,7 @@
                                 "MD5": "1d360289e697022a3f57abaad344b28f",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
                             "name": "Minecraft Forge (scala-xml)",
                             "type": "Library",
@@ -693,8 +1935,7 @@
                                 "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
                             "name": "Minecraft Forge (akka-actor)",
                             "type": "Library",
@@ -703,8 +1944,7 @@
                                 "MD5": "25cb22c3078e9fb3f7a861c912924862",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "com.typesafe:config:1.2.1@jar.pack.xz",
                             "name": "Minecraft Forge (typesafe-config)",
                             "type": "Library",
@@ -713,8 +1953,7 @@
                                 "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
                             }
-                        },
-                        {
+                        }, {
                             "id": "lzma:lzma:0.0.1",
                             "name": "Mojang (LZMA)",
                             "type": "Library",
@@ -723,8 +1962,7 @@
                                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "net.sf.trove4j:trove4j:3.0.3",
                             "name": "Trove4J",
                             "type": "Library",
@@ -733,8 +1971,7 @@
                                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "java3d:vecmath:1.5.2",
                             "name": "Vecmath",
                             "type": "Library",
@@ -743,8 +1980,7 @@
                                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
                             "name": "Jopt-simple",
                             "type": "Library",
@@ -753,8 +1989,7 @@
                                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "org.apache.maven:maven-artifact:3.5.3",
                             "name": "maven-artifact",
                             "type": "Library",
@@ -763,8 +1998,7 @@
                                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
                             }
-                        },
-                        {
+                        }, {
                             "id": "net.minecraftforge:MercuriusUpdater:1.12.2",
                             "name": "MercuriusUpdater",
                             "type": "Library",
@@ -775,18 +2009,16 @@
                             }
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "com.westeroscraft:westerosblocks:4.2.1-111",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 18288340,
-                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
+                        "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
-                },
-                {
+                }, {
                     "id": "com.westeroscraft:westeroscraftrp:1.12.2-20",
                     "name": "WesterosCraft Resource Pack",
                     "type": "File",
@@ -796,8 +2028,7 @@
                         "path": "resourcepacks/WesterosCraft.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip"
                     }
-                },
-                {
+                }, {
                     "id": "net.optifine:optifine:1.12.2_HD_U_F5",
                     "name": "Optifine",
                     "type": "ForgeMod",
@@ -806,8 +2037,7 @@
                         "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar"
                     }
-                },
-                {
+                }, {
                     "id": "mezz:jei:1.12.2-4.14.3.242",
                     "name": "JustEnoughItems",
                     "type": "ForgeMod",
@@ -816,8 +2046,7 @@
                         "MD5": "ae6d0e6e873ef6c20f41097dc7fee8c6",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/jei.jar"
                     }
-                },
-                {
+                }, {
                     "id": "org.blockartistry:dynsurround:1.12.2-3.6.1.0",
                     "name": "DynamicSurroundings",
                     "type": "ForgeMod",
@@ -829,8 +2058,7 @@
                         "MD5": "1a0d50a34941865ff091a492e0612502",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/DynamicSurroundings.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "dsurround.cfg",
                             "name": "DynamicSurroundings General Configuration File",
                             "type": "File",
@@ -839,8 +2067,7 @@
                                 "path": "/config/dsurround/dsurround.cfg",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/dsurround/dsurround.cfg"
                             }
-                        },
-                        {
+                        }, {
                             "id": "westeros.json",
                             "name": "DynamicSurroundings WesterosCraft Configuration File",
                             "type": "File",
@@ -852,8 +2079,7 @@
                             }
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "orelib:orelib:3.6.0.1",
                     "name": "OreLib 3.6.0.1",
                     "type": "ForgeMod",
@@ -862,8 +2088,7 @@
                         "MD5": "00cce3b240365458adcad3e77782358a",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OreLib.jar"
                     }
-                },
-                {
+                }, {
                     "id": "octarine-noise:betterfoliage:1.12-2.2.0",
                     "name": "BetterFoliage",
                     "type": "ForgeMod",
@@ -875,8 +2100,7 @@
                         "MD5": "e05a720c5900b9bac4e01179abe8eef6",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/BetterFoliage.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "betterfoliage.cfg",
                             "name": "BetterFoliage Configuration File",
                             "type": "File",
@@ -888,8 +2112,7 @@
                             }
                         }
                     ]
-                },
-                {
+                }, {
                     "id": "forgelin:forgelin:1.8.2",
                     "name": "Forgelin",
                     "type": "ForgeMod",
@@ -898,8 +2121,7 @@
                         "MD5": "59035365f7af35f599d1c4baade64d8b",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/Forgelin.jar"
                     }
-                },
-                {
+                }, {
                     "id": "xaeros:minimap:1.12.2-20.15.0",
                     "name": "XaerosMinimap",
                     "type": "ForgeMod",
@@ -911,8 +2133,7 @@
                         "MD5": "cc12cfe20febd1404345f5339e522cda",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/Xaeros_Minimap.jar"
                     }
-                },
-                {
+                }, {
                     "id": "horse:horse_colors:1.12.2-1.0.4",
                     "name": "horse_colors",
                     "type": "ForgeMod",
@@ -921,8 +2142,7 @@
                         "MD5": "4ac8a7074629bb32d2fc9ad24926383d",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/horse_colors.jar"
                     }
-                },
-                {
+                }, {
                     "id": "com.westeroscraft:westerosentities:1.12.2-b6",
                     "name": "westerosentities",
                     "type": "ForgeMod",
@@ -931,8 +2151,7 @@
                         "MD5": "a02be14d86cb9748892a92778b194f4c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/westerosentities.jar"
                     }
-                },
-                {
+                }, {
                     "id": "com.github.hexomod:worldedit-cui-fe3:1.12.2-3.0.4",
                     "name": "WorldEditCUI",
                     "type": "ForgeMod",
@@ -945,8 +2164,7 @@
                         "MD5": "0807a7fcf26b50b23288daecc5ee6ae4",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/worldeditcuife.jar"
                     }
-                },
-                {
+                }, {
                     "id": "com.mumfrey:macrokeybindmod:1.12.2-2.0.3.204",
                     "name": "Macro/Keybind Mod",
                     "type": "ForgeMod",
@@ -959,8 +2177,7 @@
                         "MD5": "07577bfcc7acea868d56ad058b4b793e",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/MacroKey_Keybinding.jar"
                     }
-                },
-                {
+                }, {
                     "id": "com.theincgi:advancedMacros:1.12.2-7.9.0",
                     "name": "Advanced Macros mod",
                     "type": "ForgeMod",
@@ -973,8 +2190,7 @@
                         "MD5": "e9dee578e2ab576a65d78e7d48ddc12a",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/advancedmacros.jar"
                     }
-                },
-                {
+                }, {
                     "id": "com.sonicether:seus-renewed:1.0.0",
                     "name": "Sonic Ether's Unbelievable Shaders Renewed",
                     "type": "File",
@@ -984,18 +2200,16 @@
                         "path": "shaderpacks/SEUS-Renewed.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/shaderpacks/SEUS-Renewed.zip"
                     }
-                },
-                {
+                }, {
                     "id": "options.txt",
                     "name": "Default Client Options",
                     "type": "File",
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt"
                     }
-                },
-                {
+                }, {
                     "id": "servers.dat",
                     "name": "Saved Client Servers",
                     "type": "File",
@@ -1003,7 +2217,7 @@
                         "size": 87,
                         "MD5": "64dc1db90935997f07dfac422206f1de",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat"
                     }
                 }
             ]
