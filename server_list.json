@@ -27,13 +27,13 @@
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4884700,
-                        "MD5": "90734a5a713e24902d24c45c15caa42c",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
+                        "size": 4466108,
+                        "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/forge-1.12.2-14.23.5.2859-universal.jar"
                     },
                     "subModules": [
                         {
@@ -239,46 +239,155 @@
                     ]
                 },
                 {
-                    "id": "io.github.songbuild00:timer:191025",
-                    "name": "Timer",
+                    "id": "com.radixshock:classiccombat:1.0.1",
+                    "name": "ClassicCombat",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 20472,
-                         "MD5": "c7de04d16229d4df0e9370262a27c6ad",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/Timer-1.12.2-191025.jar"
+                        "size": 56210,
+                        "MD5": "98c0ba7ffbd0a52d22f1b6d8444093bc",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/ClassicCombat-1.0.1.jar"
                     }
                 },
-                {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-20",
-                    "name": "WesterosCraft Resource Pack",
-                    "type": "File",
+				{
+                    "id": "com.creativemd:creativecore:1.10.65-MC1.12.2",
+                    "name": "CreativeCore",
+                    "type": "ForgeMod",
                     "artifact": {
-                        "size": 53240128,
-                        "MD5": "d26483bfc73b71af57499f4ac8932e7c",
-                        "path": "resourcepacks/WesterosCraft.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/resourcepacks/WesterosCraft.zip"
+                        "size": 1290012,
+                         "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/CreativeCore_v1.10.65_mc1.12.2.jar"
                     }
                 },
+				{
+                    "id": "lumien:custommainmenu:2.0.9.1-MC1.12.2",
+                    "name": "CustomMainMenu",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 91121,
+                        "MD5": "c12200ad89f9399d5bdcbe9da7900bb9",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/CustomMainMenu-MC1.12.2-2.0.9.1.jar"
+                    }
+                },
+				{
+                    "id": "noppes:npcs:05Jul20)",
+                    "name": "CustomNPCs",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 9911871,
+                        "MD5": "3ab1a5c4b069d574631da5bc1880ebf7",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/CustomNPCs_1.12.2-(05Jul20).jar"
+                    }
+                },				
+			    {
+                    "id": "forgelin:forgelin:1.8.4",
+                    "name": "Forgelin",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6278399,
+                        "MD5": "2da79fce72265eab0541e565636d389d",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/Forgelin-1.8.4.jar"
+                    }
+                },
+				{
+                    "id": "xyz.domi1819:invisiblights:3.2-10",
+                    "name": "invisiblights",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 53756,
+                        "MD5": "09575071a1c20e0ab30db24159651b25",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/invisiblights-3.2-10.jar"
+                    }
+                },	
+				{
+                    "id": "creo.mod:koreanchat:1.12-1.9",
+                    "name": "koreanchat-creo",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 30763,
+                        "MD5": "91492de16021a4f7018eb5d523f45fc2",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/koreanchat-creo-1.12-1.9.jar"
+                    }
+                },	
+				{
+                    "id": "mchorse:mclib:2.4-1.12.2",
+                    "name": "mclib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 689300,
+                        "MD5": "5a5e9b994ab2532173858f8af962bc6c",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/mclib-2.4-1.12.2.jar"
+                    }
+                },	
+				{
+                    "id": "lazygom:musicplay:1.12.2-181229",
+                    "name": "musicplay",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 35763,
+                        "MD5": "91492de16021a4f7018eb5d523f45fc2",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
+                    }
+                },				
                 {
-                    "id": "net.optifine:optifine:1.12.2_HD_U_F5",
+                    "id": "com.chickenskin:nuclearwarmod:1.12.2-3.6",
+                    "name": "NuclearWarReturns",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3978974,
+                        "MD5": "b3592d8f6e50da49a88c792878127d08",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarReturns-1.12.2-3.6-client.jar"
+                    }
+                },		
+                {
+                    "id": "com.creativemd.opf:onlinepicframe:1.5.0-pre1-MC1.12.2",
+                    "name": "OnlinePicFrame",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 79452,
+                        "MD5": "f893cc9f646633a93af60e79dc295f96",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar"
+                    }
+                },				
+                {
+                    "id": "net.optifine:optifine:1.12.2_HD_U_G5",
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 2598821,
-                        "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/OptiFine.jar"
+                        "size": 2669107,
+                        "MD5": "54e561e441192cf009803ae95873c5d0",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/OptiFine_1.12.2_HD_U_G5.jar"
                     }
                 },
                 {
-                    "id": "mezz:jei:1.12.2-4.14.3.242",
-                    "name": "JustEnoughItems",
+                    "id": "lumien:resourceloader:MC1.12.1-1.5.3",
+                    "name": "ResourceLoader",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 620682,
-                        "MD5": "ae6d0e6e873ef6c20f41097dc7fee8c6",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/jei.jar"
+                        "size": 16612,
+                        "MD5": "51141e882f96ce756b9b3d25f2acdf57",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/ResourceLoader-MC1.12.1-1.5.3.jar"
+                    }
+                },				
+                {
+                    "id": "bre:smoothfont:mc1.12.2-2.1.2",
+                    "name": "SmoothFont",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 283513,
+                        "MD5": "696c2cab0d01b90e33f6c85277f1ea83",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/SmoothFont-mc1.12.2-2.1.2.jar"
                     }
                 },
+                {
+                    "id": "lazygom:videoview:1.12.2-200507",
+                    "name": "VideoView",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3230971,
+                        "MD5": "95972f3086e6ad296fce33df87f6fbf3",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
+                    }
+                },	
                 {
                     "id": "org.blockartistry:dynsurround:1.12.2-3.6.1.0",
                     "name": "DynamicSurroundings",
@@ -316,16 +425,6 @@
                     ]
                 },
                 {
-                    "id": "orelib:orelib:3.6.0.1",
-                    "name": "OreLib 3.6.0.1",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 341728,
-                        "MD5": "00cce3b240365458adcad3e77782358a",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/OreLib.jar"
-                    }
-                },
-                {
                     "id": "octarine-noise:betterfoliage:1.12-2.2.0",
                     "name": "BetterFoliage",
                     "type": "ForgeMod",
@@ -352,16 +451,6 @@
                     ]
                 },
                 {
-                    "id": "forgelin:forgelin:1.8.2",
-                    "name": "Forgelin",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 5124663,
-                        "MD5": "59035365f7af35f599d1c4baade64d8b",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/Forgelin.jar"
-                    }
-                },
-                {
                     "id": "xaeros:minimap:1.12.2-20.15.0",
                     "name": "XaerosMinimap",
                     "type": "ForgeMod",
@@ -372,16 +461,6 @@
                         "size": 528849,
                         "MD5": "cc12cfe20febd1404345f5339e522cda",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/Xaeros_Minimap.jar"
-                    }
-                },
-                {
-                    "id": "horse:horse_colors:1.12.2-1.0.4",
-                    "name": "horse_colors",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1000733,
-                        "MD5": "4ac8a7074629bb32d2fc9ad24926383d",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/horse_colors.jar"
                     }
                 },
                 {
@@ -412,15 +491,38 @@
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/MacroKey_Keybinding.jar"
                     }
                 },
-                {
-                    "id": "com.sonicether:seus-renewed:1.0.0",
-                    "name": "Sonic Ether's Unbelievable Shaders Renewed",
+				{
+                    "id": "com.chickenskin:nuclearwar_shaderpack:1.0.0",
+                    "name": "ChickenSkin Nuclearwar_Event_Match Sharder",
                     "type": "File",
                     "artifact": {
-                        "size": 7062491,
-                        "MD5": "e68cc9f8ffc8fad66583b9b2cc05356f",
-                        "path": "shaderpacks/SEUS-Renewed.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/shaderpacks/SEUS-Renewed.zip"
+                        "size": 403387,
+                        "MD5": "0bd823368a1f0ce2d01baeec14fa0da5",
+                        "path": "shaderpacks/BSLStandardv6.1.1.zip",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/shaderpacks/BSLStandardv6.1.1.zip"
+                    },
+                    "subModules": [
+                        {
+                            "id": "com.chickenskin:nuclearwar_shaderpack:1.0.0",
+                            "name": "Shaders Setting File",
+                            "type": "File",
+							"artifact": {
+								"size": 276,
+								"path": "shaderpacks/BSLStandardv6.1.1.zip.txt",
+								"url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/shaderpacks/BSLStandardv6.1.1.zip.txt"
+							}
+                        }
+                    ]
+                },
+				{
+                    "id": "com.chickenskin:Nuclearwar_ResourcePack:1.0.0",
+                    "name": "Nuclearwar Resource Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4659233,
+                        "MD5": "63cada969e8555c95e01512e77bdba60",
+                        "path": "resourcepacks/NUCLEAR_WAR.zip",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resourcepacks/NUCLEAR_WAR.zip"
                     }
                 },
                 {
@@ -428,9 +530,9 @@
                     "name": "Default Client Options",
                     "type": "File",
                     "artifact": {
-                        "size": 1973,
+                        "size": 2383,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt" 
                     }
                 },
                 {
@@ -438,10 +540,10 @@
                     "name": "Saved Client Servers",
                     "type": "File",
                     "artifact": {
-                        "size": 84,
-                        "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
+                        "size": 3171,
+                        "MD5": "14aa1b1803f4b7c1b3066d018e114c6f",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat" 
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/servers.dat" 
                     }
                 }
             ]
