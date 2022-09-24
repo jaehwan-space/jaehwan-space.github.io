@@ -33,7 +33,7 @@
                     "artifact": {
                         "size": 4466108,
                         "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/forge-1.12.2-14.23.5.2859-universal.jar"
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
                     },
                     "subModules": [
                         {
@@ -299,7 +299,7 @@
                     }
                 },	
 				{
-                    "id": "creo.mod:koreanchat:1.12-1.9",
+                    "id": "creo.mod:koreanchat:1.9-1.12",
                     "name": "koreanchat-creo",
                     "type": "ForgeMod",
                     "artifact": {
@@ -319,7 +319,7 @@
                     }
                 },	
 				{
-                    "id": "lazygom:musicplay:1.12.2-181229",
+                    "id": "lazygom:musicplay:181229-1.12.2",
                     "name": "musicplay",
                     "type": "ForgeMod",
                     "artifact": {
@@ -329,7 +329,7 @@
                     }
                 },				
                 {
-                    "id": "com.chickenskin:nuclearwarmod:1.12.2-3.6",
+                    "id": "com.chickenskin:nuclearwarmod:3.6-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
@@ -359,7 +359,7 @@
                     }
                 },
                 {
-                    "id": "lumien:resourceloader:MC1.12.1-1.5.3",
+                    "id": "lumien:resourceloader:1.5.3-MC1.12.1",
                     "name": "ResourceLoader",
                     "type": "ForgeMod",
                     "artifact": {
@@ -369,7 +369,7 @@
                     }
                 },				
                 {
-                    "id": "bre:smoothfont:mc1.12.2-2.1.2",
+                    "id": "bre:smoothfont:2.1.2-mc1.12.2",
                     "name": "SmoothFont",
                     "type": "ForgeMod",
                     "artifact": {
@@ -379,7 +379,7 @@
                     }
                 },
                 {
-                    "id": "lazygom:videoview:1.12.2-200507",
+                    "id": "lazygom:videoview:2005070-1.12.2",
                     "name": "VideoView",
                     "type": "ForgeMod",
                     "artifact": {
@@ -389,7 +389,7 @@
                     }
                 },	
                 {
-                    "id": "org.blockartistry:dynsurround:1.12.2-3.6.1.0",
+                    "id": "org.blockartistry:dynsurround:3.6.1.0-1.12.2",
                     "name": "DynamicSurroundings",
                     "type": "ForgeMod",
                     "required": {
