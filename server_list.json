@@ -1723,14 +1723,6 @@
                                 "path": "resources/mianmeun/background/148.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/148.png"
                             }
-                        }, {
-                            "id": "resource/mainmenu",
-                            "name": "mainmenuresources-background",
-                            "type": "File",
-                            "artifact": {
-                                "path": "resources/mianmeun/background/149.png",
-                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/149.png"
-                            }
                         }
                     ]
                 }, {
