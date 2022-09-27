@@ -1780,8 +1780,8 @@
                     "type": "File",
                     "artifact": {
                         "size": 367,
-                        "path": "optionsof.txt",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/optionsof.txt"
+                        "path": "optionsshaders.txt",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/optionsshaders.txt"
                     }
                 }, {
                     "id": "servers.dat",
