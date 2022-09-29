@@ -1,8 +1,8 @@
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "clientId": "971871310445707304",
+        "smallImageText": "닭껍질팀과 함께",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -18,7 +18,7 @@
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
-                "shortId": "1.12.2 Production Server",
+                "shortId": "핵전쟁 플레이 중",
                 "largeImageText": "WesterosCraft 1.12.2 Production Server",
                 "largeImageKey": "server-prod"
             },
