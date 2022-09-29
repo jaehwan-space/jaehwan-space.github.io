@@ -297,13 +297,13 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:nuclearwarmod:3.6-1.12.2",
+                    "id": "com.chickenskin:nuclearwarmod:4.0-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 3978974,
                         "MD5": "b3592d8f6e50da49a88c792878127d08",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarReturns-1.12.2-3.6-client.jar"
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarReturns-1.12.2-4.0-client.jar"
                     }
                 }, {
                     "id": "com.creativemd.opf:onlinepicframe:1.5.0-pre1-MC1.12.2",
