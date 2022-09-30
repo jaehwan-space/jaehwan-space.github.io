@@ -14,7 +14,7 @@
             "name": "핵전쟁 이벤트 매치",
             "description": "Nuclearwar Event Match Server",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.0.1",
+            "version": "1.0.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -333,15 +333,34 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/ResourceLoader-MC1.12.1-1.5.3.jar"
                     }
                 }, {
-                    "id": "bre:smoothfont:2.1.2-mc1.12.2",
-                    "name": "SmoothFont",
+                    "id": "spazley:scalingguis:1.12.2-1.0.3.0",
+                    "name": "scalingguis",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 283513,
-                        "MD5": "696c2cab0d01b90e33f6c85277f1ea83",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/SmoothFont-mc1.12.2-2.1.2.jar"
+                        "size": 51251,
+                        "MD5": "7e34b4f8431f854fdb6b0b3c8611b0a8",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/scalingguis-1.12.2-1.0.3.0.jar"
                     }
                 }, {
+                    "id": "ScalingGUIsCustomScales.json",
+                    "name": "ScalingGUIsCustomScales json File",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1253,
+                        "MD5": "7b3d0c053f8d714ac3e986aff1b5329c",
+                        "path": "/config/ScalingGUIs/ScalingGUIsCustomScales.json",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/ScalingGUIs/ScalingGUIsCustomScales.json"
+                    }
+                },{
+                    "id": "lazygom:videoview:2005070-1.12.2",
+                    "name": "VideoView",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3230971,
+                        "MD5": "95972f3086e6ad296fce33df87f6fbf3",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
+                    }
+                },{
                     "id": "lazygom:videoview:2005070-1.12.2",
                     "name": "VideoView",
                     "type": "ForgeMod",
