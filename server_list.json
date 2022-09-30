@@ -14,7 +14,7 @@
             "name": "핵전쟁 이벤트 매치",
             "description": "Nuclearwar Event Match Server",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -358,7 +358,7 @@
                                 "size": 1253,
                                 "MD5": "7b3d0c053f8d714ac3e986aff1b5329c",
                                 "path": "/config/ScalingGUIs/ScalingGUIsCustomScales.json",
-                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/scalingguis-1.12.2-1.0.3.0.jar"
+                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/ScalingGUIs/ScalingGUIsCustomScales.json"
                             }
                         }
                     ]
