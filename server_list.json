@@ -361,13 +361,13 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
                     }
                 },{
-                    "id": "lazygom:videoview:2005070-1.12.2",
-                    "name": "VideoView",
+                    "id": "bre:smoothFont:2.1.2-mc1.12.2.",
+                    "name": "SmoothFont",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 3230971,
-                        "MD5": "95972f3086e6ad296fce33df87f6fbf3",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
+                        "size": 283513,
+                        "MD5": "696c2cab0d01b90e33f6c85277f1ea83",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/SmoothFont-mc1.12.2-2.1.2.jar"
                     }
                 },  {
                     "id": "com.github.hexomod:worldedit-cui-fe3:1.12.2-3.0.4",
@@ -394,7 +394,7 @@
                 }, {
                     "id": "config/smoothfont",
                     "name": "smoothfont_Setting_File",
-                    "type": "File",
+                    "type": "File", 	
                     "artifact": {
                         "size": 6581,
                         "path": "config/smoothfont/smoothfont.cfg",
