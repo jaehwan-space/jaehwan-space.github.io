@@ -14,7 +14,7 @@
             "name": "핵전쟁 이벤트 매치",
             "description": "Nuclearwar Event Match Server",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.0.1",
+            "version": "1.0.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -342,27 +342,6 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/SmoothFont-mc1.12.2-2.1.2.jar"
                     }
                 }, {
-                    "id": "spazley:scalingguis:1.12.2-1.0.3.0",
-                    "name": "scalingguis",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 51251,
-                        "MD5": "7e34b4f8431f854fdb6b0b3c8611b0a8",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/scalingguis-1.12.2-1.0.3.0.jar"
-                    },
-                    "subModules": [{
-                            "id": "ScalingGUIsCustomScales.json",
-                            "name": "ScalingGUIsCustomScales json File",
-                            "type": "File",
-                            "artifact": {
-                                "size": 1253,
-                                "MD5": "7b3d0c053f8d714ac3e986aff1b5329c",
-                                "path": "/config/ScalingGUIs/ScalingGUIsCustomScales.json",
-                                "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/ScalingGUIs/ScalingGUIsCustomScales.json"
-                            }
-                        }
-                    ]
-                },{
                     "id": "lazygom:videoview:2005070-1.12.2",
                     "name": "VideoView",
                     "type": "ForgeMod",
@@ -371,6 +350,30 @@
                         "MD5": "95972f3086e6ad296fce33df87f6fbf3",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
                     }
+                }, {
+                    "id": "octarine-noise:betterfoliage:1.12-2.2.0",
+                    "name": "BetterFoliage",
+                    "type": "ForgeMod",
+                    "required": {
+                        "value": false
+                    },
+                    "artifact": {
+                        "size": 926081,
+                        "MD5": "e05a720c5900b9bac4e01179abe8eef6",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/BetterFoliage.jar"
+                    },
+                    "subModules": [{
+                            "id": "betterfoliage.cfg",
+                            "name": "BetterFoliage Configuration File",
+                            "type": "File",
+                            "artifact": {
+                                "size": 7878,
+                                "MD5": "6dd38f873c4129af05a2d6c500cbe954",
+                                "path": "/config/betterfoliage.cfg",
+                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/config/betterfoliage.cfg"
+                            }
+                        }
+                    ]
                 },  {
                     "id": "com.github.hexomod:worldedit-cui-fe3:1.12.2-3.0.4",
                     "name": "WorldEditCUI",
