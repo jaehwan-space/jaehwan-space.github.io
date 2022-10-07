@@ -1,0 +1,17 @@
+#Thu Aug 18 02:13:04 KST 2022
+BloomStrength=0.25
+ColB1=16.0
+ColG1=16.0
+ColG3=16.0
+ColS3=0.9
+Contrast=1.06
+RoundSunMoon=true
+ShadowLeakFix=true
+ShadowOffset=0.30
+SkyColor=2
+StrLDay=0.75
+StrLNight=1.50
+StrLRain=1.50
+StrTNormal=1.50
+SunlightColor=2
+TorchColor=2
