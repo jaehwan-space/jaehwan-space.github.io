@@ -3,7 +3,7 @@
     "discord": {
         "clientId": "971871310445707304",
         "smallImageText": "닭껍질팀과 함께",
-        "smallImageKey": ""
+        "smallImageKey": "-"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -14,13 +14,13 @@
             "name": "핵전쟁 이벤트 매치",
             "description": "Nuclearwar Event Match Server",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.0.1",
+            "version": "1.0.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "플레이 콘텐츠: 핵전쟁",
-                "largeImageText": "",
-                "largeImageKey": ""
+                "largeImageText": "-",
+                "largeImageKey": "-"
             },
             "mainServer": true,
             "autoconnect": true,
@@ -293,17 +293,17 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 35763,
-                        "MD5": "91492de16021a4f7018eb5d523f45fc2",
+                        "MD5": "d40d5a2607c643ec32137ead5a0ed6db",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:nuclearwarmod:4.0-1.12.2",
+                    "id": "com.chickenskin:nuclearwarmod:4.3.1-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 3978974,
-                        "MD5": "602292946d508dd1a0129a73d5c90431",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarReturns-1.12.2-4.0-client.jar"
+                        "size": 3540113,
+                        "MD5": "ba8d7244b01f4ec2b34b464b7d424917",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarReturns-1.12.2-4.3.1-client.jar"
                     }
                 }, {
                     "id": "com.creativemd.opf:onlinepicframe:1.5.0-pre1-MC1.12.2",
@@ -342,25 +342,6 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/scalingguis-1.12.2-1.0.3.0.jar"
                     }
                 }, {
-                    "id": "ScalingGUIsCustomScales.json",
-                    "name": "ScalingGUIsCustomScales json File",
-                    "type": "File",
-                    "artifact": {
-                        "size": 1253,
-                        "MD5": "7b3d0c053f8d714ac3e986aff1b5329c",
-                        "path": "/config/ScalingGUIs/ScalingGUIsCustomScales.json",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/ScalingGUIs/ScalingGUIsCustomScales.json"
-                    }
-                },{
-                    "id": "lazygom:videoview:2005070-1.12.2",
-                    "name": "VideoView",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 3230971,
-                        "MD5": "95972f3086e6ad296fce33df87f6fbf3",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
-                    }
-                },{
                     "id": "bre:smoothFont:2.1.2-mc1.12.2.",
                     "name": "SmoothFont",
                     "type": "ForgeMod",
@@ -369,7 +350,16 @@
                         "MD5": "696c2cab0d01b90e33f6c85277f1ea83",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/SmoothFont-mc1.12.2-2.1.2.jar"
                     }
-                },  {
+                }, {
+                    "id": "lazygom:videoview:2005070-1.12.2",
+                    "name": "VideoView",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3230971,
+                        "MD5": "95972f3086e6ad296fce33df87f6fbf3",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
+                    }
+                }, {
                     "id": "com.github.hexomod:worldedit-cui-fe3:1.12.2-3.0.4",
                     "name": "WorldEditCUI",
                     "type": "ForgeMod",
@@ -392,9 +382,19 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/CustomMainMenu/mainmenu.json"
                     }
                 }, {
+                    "id": "ScalingGUIsCustomScales.json",
+                    "name": "ScalingGUIsCustomScales json File",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1253,
+                        "MD5": "7b3d0c053f8d714ac3e986aff1b5329c",
+                        "path": "/config/ScalingGUIs/ScalingGUIsCustomScales.json",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/config/ScalingGUIs/ScalingGUIsCustomScales.json"
+                    }
+                }, {
                     "id": "config/smoothfont",
                     "name": "smoothfont_Setting_File",
-                    "type": "File", 	
+                    "type": "File",
                     "artifact": {
                         "size": 6581,
                         "path": "config/smoothfont/smoothfont.cfg",
@@ -446,6 +446,42 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war.wav"
                     }
                 }, {
+                    "id": "music-1",
+                    "name": "music-1",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/1.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/1.wav"
+                    }
+                }, {
+                    "id": "music-2",
+                    "name": "music-2",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/2.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/2.wav"
+                    }
+                }, {
+                    "id": "music-3",
+                    "name": "music-3",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/3.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/3.wav"
+                    }
+                }, {
+                    "id": "music-4",
+                    "name": "music-4",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6581,
+                        "path": "music/4.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/4.wav"
+                    }
+                }, {
                     "id": "resource/mainmenu",
                     "name": "mainmenuresources",
                     "type": "File",
@@ -486,7 +522,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1533840,
+                                "size": 1533840,
                                 "path": "resources/mianmeun/background/0.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/0.png"
                             }
@@ -495,7 +531,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1557122,
+                                "size": 1557122,
                                 "path": "resources/mianmeun/background/1.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/1.png"
                             }
@@ -504,7 +540,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1497033,
+                                "size": 1497033,
                                 "path": "resources/mianmeun/background/2.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/2.png"
                             }
@@ -513,7 +549,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1496491,
+                                "size": 1496491,
                                 "path": "resources/mianmeun/background/3.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/3.png"
                             }
@@ -522,7 +558,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1496317,
+                                "size": 1496317,
                                 "path": "resources/mianmeun/background/4.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/4.png"
                             }
@@ -531,7 +567,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503458,
+                                "size": 1503458,
                                 "path": "resources/mianmeun/background/5.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/5.png"
                             }
@@ -540,7 +576,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504208,
+                                "size": 1504208,
                                 "path": "resources/mianmeun/background/6.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/6.png"
                             }
@@ -549,7 +585,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503557,
+                                "size": 1503557,
                                 "path": "resources/mianmeun/background/7.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/7.png"
                             }
@@ -558,7 +594,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1497403,
+                                "size": 1497403,
                                 "path": "resources/mianmeun/background/8.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/8.png"
                             }
@@ -567,7 +603,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1500478,
+                                "size": 1500478,
                                 "path": "resources/mianmeun/background/9.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/9.png"
                             }
@@ -576,7 +612,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1500393,
+                                "size": 1500393,
                                 "path": "resources/mianmeun/background/10.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/10.png"
                             }
@@ -585,7 +621,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501276,
+                                "size": 1501276,
                                 "path": "resources/mianmeun/background/11.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/11.png"
                             }
@@ -594,7 +630,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501172,
+                                "size": 1501172,
                                 "path": "resources/mianmeun/background/12.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/12.png"
                             }
@@ -603,7 +639,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507321,
+                                "size": 1507321,
                                 "path": "resources/mianmeun/background/13.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/13.png"
                             }
@@ -612,7 +648,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1506867,
+                                "size": 1506867,
                                 "path": "resources/mianmeun/background/14.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/14.png"
                             }
@@ -621,7 +657,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1512450,
+                                "size": 1512450,
                                 "path": "resources/mianmeun/background/15.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/15.png"
                             }
@@ -630,7 +666,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507046,
+                                "size": 1507046,
                                 "path": "resources/mianmeun/background/16.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/16.png"
                             }
@@ -639,7 +675,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508549,
+                                "size": 1508549,
                                 "path": "resources/mianmeun/background/17.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/17.png"
                             }
@@ -648,7 +684,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508445,
+                                "size": 1508445,
                                 "path": "resources/mianmeun/background/18.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/18.png"
                             }
@@ -657,7 +693,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1510962,
+                                "size": 1510962,
                                 "path": "resources/mianmeun/background/19.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/19.png"
                             }
@@ -666,7 +702,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507656,
+                                "size": 1507656,
                                 "path": "resources/mianmeun/background/20.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/20.png"
                             }
@@ -675,7 +711,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1515791,
+                                "size": 1515791,
                                 "path": "resources/mianmeun/background/21.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/21.png"
                             }
@@ -684,7 +720,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1511252,
+                                "size": 1511252,
                                 "path": "resources/mianmeun/background/22.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/22.png"
                             }
@@ -693,7 +729,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1511720,
+                                "size": 1511720,
                                 "path": "resources/mianmeun/background/23.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/23.png"
                             }
@@ -702,7 +738,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1513843,
+                                "size": 1513843,
                                 "path": "resources/mianmeun/background/24.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/24.png"
                             }
@@ -711,7 +747,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1535732,
+                                "size": 1535732,
                                 "path": "resources/mianmeun/background/25.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/25.png"
                             }
@@ -720,7 +756,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1539003,
+                                "size": 1539003,
                                 "path": "resources/mianmeun/background/26.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/26.png"
                             }
@@ -729,7 +765,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1523658,
+                                "size": 1523658,
                                 "path": "resources/mianmeun/background/27.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/27.png"
                             }
@@ -738,7 +774,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1514286,
+                                "size": 1514286,
                                 "path": "resources/mianmeun/background/28.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/28.png"
                             }
@@ -747,7 +783,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1487343,
+                                "size": 1487343,
                                 "path": "resources/mianmeun/background/29.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/29.png"
                             }
@@ -756,7 +792,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501040,
+                                "size": 1501040,
                                 "path": "resources/mianmeun/background/30.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/30.png"
                             }
@@ -765,7 +801,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507280,
+                                "size": 1507280,
                                 "path": "resources/mianmeun/background/31.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/31.png"
                             }
@@ -774,7 +810,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1510510,
+                                "size": 1510510,
                                 "path": "resources/mianmeun/background/32.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/32.png"
                             }
@@ -783,7 +819,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507890,
+                                "size": 1507890,
                                 "path": "resources/mianmeun/background/33.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/33.png"
                             }
@@ -792,7 +828,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507320,
+                                "size": 1507320,
                                 "path": "resources/mianmeun/background/34.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/34.png"
                             }
@@ -801,7 +837,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1505730,
+                                "size": 1505730,
                                 "path": "resources/mianmeun/background/35.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/35.png"
                             }
@@ -810,7 +846,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1506055,
+                                "size": 1506055,
                                 "path": "resources/mianmeun/background/36.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/36.png"
                             }
@@ -819,7 +855,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504587,
+                                "size": 1504587,
                                 "path": "resources/mianmeun/background/37.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/37.png"
                             }
@@ -828,7 +864,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1511541,
+                                "size": 1511541,
                                 "path": "resources/mianmeun/background/38.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/38.png"
                             }
@@ -837,7 +873,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509475,
+                                "size": 1509475,
                                 "path": "resources/mianmeun/background/39.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/39.png"
                             }
@@ -846,7 +882,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1513764,
+                                "size": 1513764,
                                 "path": "resources/mianmeun/background/40.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/40.png"
                             }
@@ -855,7 +891,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504915,
+                                "size": 1504915,
                                 "path": "resources/mianmeun/background/41.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/41.png"
                             }
@@ -864,7 +900,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508387,
+                                "size": 1508387,
                                 "path": "resources/mianmeun/background/42.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/42.png"
                             }
@@ -873,7 +909,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1510060,
+                                "size": 1510060,
                                 "path": "resources/mianmeun/background/43.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/43.png"
                             }
@@ -882,7 +918,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1512079,
+                                "size": 1512079,
                                 "path": "resources/mianmeun/background/44.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/44.png"
                             }
@@ -891,7 +927,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1510350,
+                                "size": 1510350,
                                 "path": "resources/mianmeun/background/45.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/45.png"
                             }
@@ -900,7 +936,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1516123,
+                                "size": 1516123,
                                 "path": "resources/mianmeun/background/46.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/46.png"
                             }
@@ -909,7 +945,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509158,
+                                "size": 1509158,
                                 "path": "resources/mianmeun/background/47.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/47.png"
                             }
@@ -918,7 +954,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1510730,
+                                "size": 1510730,
                                 "path": "resources/mianmeun/background/48.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/48.png"
                             }
@@ -927,7 +963,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508874,
+                                "size": 1508874,
                                 "path": "resources/mianmeun/background/49.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/49.png"
                             }
@@ -936,7 +972,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1506661,
+                                "size": 1506661,
                                 "path": "resources/mianmeun/background/50.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/50.png"
                             }
@@ -945,7 +981,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508587,
+                                "size": 1508587,
                                 "path": "resources/mianmeun/background/51.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/51.png"
                             }
@@ -954,7 +990,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1514990,
+                                "size": 1514990,
                                 "path": "resources/mianmeun/background/52.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/52.png"
                             }
@@ -963,7 +999,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509788,
+                                "size": 1509788,
                                 "path": "resources/mianmeun/background/53.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/53.png"
                             }
@@ -972,7 +1008,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1514467,
+                                "size": 1514467,
                                 "path": "resources/mianmeun/background/54.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/54.png"
                             }
@@ -981,7 +1017,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1518218,
+                                "size": 1518218,
                                 "path": "resources/mianmeun/background/55.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/55.png"
                             }
@@ -990,7 +1026,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1512723,
+                                "size": 1512723,
                                 "path": "resources/mianmeun/background/56.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/56.png"
                             }
@@ -999,7 +1035,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1510766,
+                                "size": 1510766,
                                 "path": "resources/mianmeun/background/57.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/57.png"
                             }
@@ -1008,7 +1044,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1479047,
+                                "size": 1479047,
                                 "path": "resources/mianmeun/background/58.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/58.png"
                             }
@@ -1017,7 +1053,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1492555,
+                                "size": 1492555,
                                 "path": "resources/mianmeun/background/59.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/59.png"
                             }
@@ -1026,7 +1062,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1492393,
+                                "size": 1492393,
                                 "path": "resources/mianmeun/background/60.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/60.png"
                             }
@@ -1035,7 +1071,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1493118,
+                                "size": 1493118,
                                 "path": "resources/mianmeun/background/61.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/61.png"
                             }
@@ -1044,7 +1080,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1498776,
+                                "size": 1498776,
                                 "path": "resources/mianmeun/background/62.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/62.png"
                             }
@@ -1053,7 +1089,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509139,
+                                "size": 1509139,
                                 "path": "resources/mianmeun/background/63.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/63.png"
                             }
@@ -1062,7 +1098,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503358,
+                                "size": 1503358,
                                 "path": "resources/mianmeun/background/64.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/64.png"
                             }
@@ -1071,7 +1107,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507041,
+                                "size": 1507041,
                                 "path": "resources/mianmeun/background/65.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/65.png"
                             }
@@ -1080,7 +1116,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503334,
+                                "size": 1503334,
                                 "path": "resources/mianmeun/background/66.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/66.png"
                             }
@@ -1089,7 +1125,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1505534,
+                                "size": 1505534,
                                 "path": "resources/mianmeun/background/67.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/67.png"
                             }
@@ -1098,7 +1134,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1506615,
+                                "size": 1506615,
                                 "path": "resources/mianmeun/background/68.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/68.png"
                             }
@@ -1107,7 +1143,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503701,
+                                "size": 1503701,
                                 "path": "resources/mianmeun/background/69.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/69.png"
                             }
@@ -1116,7 +1152,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1502506,
+                                "size": 1502506,
                                 "path": "resources/mianmeun/background/70.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/70.png"
                             }
@@ -1125,7 +1161,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508127,
+                                "size": 1508127,
                                 "path": "resources/mianmeun/background/71.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/71.png"
                             }
@@ -1134,7 +1170,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503930,
+                                "size": 1503930,
                                 "path": "resources/mianmeun/background/72.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/72.png"
                             }
@@ -1143,7 +1179,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503538,
+                                "size": 1503538,
                                 "path": "resources/mianmeun/background/73.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/73.png"
                             }
@@ -1152,7 +1188,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1500338,
+                                "size": 1500338,
                                 "path": "resources/mianmeun/background/74.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/74.png"
                             }
@@ -1161,7 +1197,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503344,
+                                "size": 1503344,
                                 "path": "resources/mianmeun/background/75.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/75.png"
                             }
@@ -1170,7 +1206,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504532,
+                                "size": 1504532,
                                 "path": "resources/mianmeun/background/76.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/76.png"
                             }
@@ -1179,7 +1215,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508306,
+                                "size": 1508306,
                                 "path": "resources/mianmeun/background/77.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/77.png"
                             }
@@ -1188,7 +1224,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503415,
+                                "size": 1503415,
                                 "path": "resources/mianmeun/background/78.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/78.png"
                             }
@@ -1197,7 +1233,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508282,
+                                "size": 1508282,
                                 "path": "resources/mianmeun/background/79.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/79.png"
                             }
@@ -1206,7 +1242,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509421,
+                                "size": 1509421,
                                 "path": "resources/mianmeun/background/80.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/80.png"
                             }
@@ -1215,7 +1251,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508130,
+                                "size": 1508130,
                                 "path": "resources/mianmeun/background/81.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/81.png"
                             }
@@ -1224,7 +1260,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501916,
+                                "size": 1501916,
                                 "path": "resources/mianmeun/background/82.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/82.png"
                             }
@@ -1233,7 +1269,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1506596,
+                                "size": 1506596,
                                 "path": "resources/mianmeun/background/83.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/83.png"
                             }
@@ -1242,7 +1278,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509238,
+                                "size": 1509238,
                                 "path": "resources/mianmeun/background/84.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/84.png"
                             }
@@ -1251,7 +1287,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1511196,
+                                "size": 1511196,
                                 "path": "resources/mianmeun/background/85.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/85.png"
                             }
@@ -1260,7 +1296,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508737,
+                                "size": 1508737,
                                 "path": "resources/mianmeun/background/86.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/86.png"
                             }
@@ -1269,7 +1305,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1481064,
+                                "size": 1481064,
                                 "path": "resources/mianmeun/background/87.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/87.png"
                             }
@@ -1278,7 +1314,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1497263,
+                                "size": 1497263,
                                 "path": "resources/mianmeun/background/88.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/88.png"
                             }
@@ -1287,7 +1323,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1492036,
+                                "size": 1492036,
                                 "path": "resources/mianmeun/background/89.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/89.png"
                             }
@@ -1296,7 +1332,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1496338,
+                                "size": 1496338,
                                 "path": "resources/mianmeun/background/90.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/90.png"
                             }
@@ -1305,7 +1341,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1500362,
+                                "size": 1500362,
                                 "path": "resources/mianmeun/background/91.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/91.png"
                             }
@@ -1314,7 +1350,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508725,
+                                "size": 1508725,
                                 "path": "resources/mianmeun/background/92.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/92.png"
                             }
@@ -1323,7 +1359,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509380,
+                                "size": 1509380,
                                 "path": "resources/mianmeun/background/93.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/93.png"
                             }
@@ -1332,7 +1368,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508318,
+                                "size": 1508318,
                                 "path": "resources/mianmeun/background/94.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/94.png"
                             }
@@ -1341,7 +1377,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504074,
+                                "size": 1504074,
                                 "path": "resources/mianmeun/background/95.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/95.png"
                             }
@@ -1350,7 +1386,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1509487,
+                                "size": 1509487,
                                 "path": "resources/mianmeun/background/96.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/96.png"
                             }
@@ -1359,7 +1395,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504448,
+                                "size": 1504448,
                                 "path": "resources/mianmeun/background/97.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/97.png"
                             }
@@ -1368,7 +1404,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1500401,
+                                "size": 1500401,
                                 "path": "resources/mianmeun/background/98.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/98.png"
                             }
@@ -1377,7 +1413,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1495194,
+                                "size": 1495194,
                                 "path": "resources/mianmeun/background/99.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/99.png"
                             }
@@ -1386,7 +1422,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501503,
+                                "size": 1501503,
                                 "path": "resources/mianmeun/background/100.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/100.png"
                             }
@@ -1395,7 +1431,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1499771,
+                                "size": 1499771,
                                 "path": "resources/mianmeun/background/101.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/101.png"
                             }
@@ -1404,7 +1440,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1498149,
+                                "size": 1498149,
                                 "path": "resources/mianmeun/background/102.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/102.png"
                             }
@@ -1413,7 +1449,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1491186,
+                                "size": 1491186,
                                 "path": "resources/mianmeun/background/103.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/103.png"
                             }
@@ -1422,7 +1458,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501601,
+                                "size": 1501601,
                                 "path": "resources/mianmeun/background/104.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/104.png"
                             }
@@ -1431,7 +1467,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1495723,
+                                "size": 1495723,
                                 "path": "resources/mianmeun/background/105.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/105.png"
                             }
@@ -1440,7 +1476,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1495961,
+                                "size": 1495961,
                                 "path": "resources/mianmeun/background/106.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/106.png"
                             }
@@ -1449,7 +1485,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1493479,
+                                "size": 1493479,
                                 "path": "resources/mianmeun/background/107.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/107.png"
                             }
@@ -1458,7 +1494,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1500960,
+                                "size": 1500960,
                                 "path": "resources/mianmeun/background/108.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/108.png"
                             }
@@ -1467,7 +1503,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1497889,
+                                "size": 1497889,
                                 "path": "resources/mianmeun/background/109.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/109.png"
                             }
@@ -1476,7 +1512,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504413,
+                                "size": 1504413,
                                 "path": "resources/mianmeun/background/110.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/110.png"
                             }
@@ -1485,7 +1521,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1498176,
+                                "size": 1498176,
                                 "path": "resources/mianmeun/background/111.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/111.png"
                             }
@@ -1494,7 +1530,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1502895,
+                                "size": 1502895,
                                 "path": "resources/mianmeun/background/112.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/112.png"
                             }
@@ -1503,7 +1539,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504614,
+                                "size": 1504614,
                                 "path": "resources/mianmeun/background/113.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/113.png"
                             }
@@ -1512,7 +1548,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1507378,
+                                "size": 1507378,
                                 "path": "resources/mianmeun/background/114.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/114.png"
                             }
@@ -1521,7 +1557,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508032,
+                                "size": 1508032,
                                 "path": "resources/mianmeun/background/115.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/115.png"
                             }
@@ -1530,7 +1566,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1479103,
+                                "size": 1479103,
                                 "path": "resources/mianmeun/background/116.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/116.png"
                             }
@@ -1539,7 +1575,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1489015,
+                                "size": 1489015,
                                 "path": "resources/mianmeun/background/117.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/117.png"
                             }
@@ -1548,7 +1584,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1489039,
+                                "size": 1489039,
                                 "path": "resources/mianmeun/background/118.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/118.png"
                             }
@@ -1557,7 +1593,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1488979,
+                                "size": 1488979,
                                 "path": "resources/mianmeun/background/119.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/119.png"
                             }
@@ -1566,7 +1602,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1499438,
+                                "size": 1499438,
                                 "path": "resources/mianmeun/background/120.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/120.png"
                             }
@@ -1575,7 +1611,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1506842,
+                                "size": 1506842,
                                 "path": "resources/mianmeun/background/121.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/121.png"
                             }
@@ -1584,7 +1620,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1502510,
+                                "size": 1502510,
                                 "path": "resources/mianmeun/background/122.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/122.png"
                             }
@@ -1593,7 +1629,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1505196,
+                                "size": 1505196,
                                 "path": "resources/mianmeun/background/123.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/123.png"
                             }
@@ -1602,7 +1638,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503055,
+                                "size": 1503055,
                                 "path": "resources/mianmeun/background/124.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/124.png"
                             }
@@ -1611,7 +1647,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503643,
+                                "size": 1503643,
                                 "path": "resources/mianmeun/background/125.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/125.png"
                             }
@@ -1620,7 +1656,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1506445,
+                                "size": 1506445,
                                 "path": "resources/mianmeun/background/126.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/126.png"
                             }
@@ -1629,7 +1665,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1505007,
+                                "size": 1505007,
                                 "path": "resources/mianmeun/background/127.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/127.png"
                             }
@@ -1638,7 +1674,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501409,
+                                "size": 1501409,
                                 "path": "resources/mianmeun/background/128.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/128.png"
                             }
@@ -1647,7 +1683,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1498193,
+                                "size": 1498193,
                                 "path": "resources/mianmeun/background/129.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/129.png"
                             }
@@ -1656,7 +1692,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1495046,
+                                "size": 1495046,
                                 "path": "resources/mianmeun/background/130.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/130.png"
                             }
@@ -1665,7 +1701,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1496137,
+                                "size": 1496137,
                                 "path": "resources/mianmeun/background/131.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/131.png"
                             }
@@ -1674,7 +1710,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1495569,
+                                "size": 1495569,
                                 "path": "resources/mianmeun/background/132.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/132.png"
                             }
@@ -1683,7 +1719,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501377,
+                                "size": 1501377,
                                 "path": "resources/mianmeun/background/133.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/133.png"
                             }
@@ -1692,7 +1728,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1498906,
+                                "size": 1498906,
                                 "path": "resources/mianmeun/background/134.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/134.png"
                             }
@@ -1701,7 +1737,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1508602,
+                                "size": 1508602,
                                 "path": "resources/mianmeun/background/135.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/135.png"
                             }
@@ -1710,7 +1746,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503369,
+                                "size": 1503369,
                                 "path": "resources/mianmeun/background/136.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/136.png"
                             }
@@ -1719,7 +1755,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1505533,
+                                "size": 1505533,
                                 "path": "resources/mianmeun/background/137.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/137.png"
                             }
@@ -1728,7 +1764,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1499401,
+                                "size": 1499401,
                                 "path": "resources/mianmeun/background/138.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/138.png"
                             }
@@ -1737,7 +1773,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1498318,
+                                "size": 1498318,
                                 "path": "resources/mianmeun/background/139.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/139.png"
                             }
@@ -1746,7 +1782,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1492989,
+                                "size": 1492989,
                                 "path": "resources/mianmeun/background/140.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/140.png"
                             }
@@ -1755,7 +1791,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1501045,
+                                "size": 1501045,
                                 "path": "resources/mianmeun/background/141.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/141.png"
                             }
@@ -1764,7 +1800,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503551,
+                                "size": 1503551,
                                 "path": "resources/mianmeun/background/142.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/142.png"
                             }
@@ -1773,7 +1809,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1504829,
+                                "size": 1504829,
                                 "path": "resources/mianmeun/background/143.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/143.png"
                             }
@@ -1782,7 +1818,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1503882,
+                                "size": 1503882,
                                 "path": "resources/mianmeun/background/144.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/144.png"
                             }
@@ -1791,7 +1827,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1476715,
+                                "size": 1476715,
                                 "path": "resources/mianmeun/background/145.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/145.png"
                             }
@@ -1800,7 +1836,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1484234,
+                                "size": 1484234,
                                 "path": "resources/mianmeun/background/146.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/146.png"
                             }
@@ -1809,7 +1845,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1482241,
+                                "size": 1482241,
                                 "path": "resources/mianmeun/background/147.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/147.png"
                             }
@@ -1818,7 +1854,7 @@
                             "name": "mainmenuresources-background",
                             "type": "File",
                             "artifact": {
-								"size": 1481140,
+                                "size": 1481140,
                                 "path": "resources/mianmeun/background/148.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/resources/mianmeun/background/148.png"
                             }
@@ -1860,7 +1896,7 @@
                     "name": "Default Client Options",
                     "type": "File",
                     "artifact": {
-                        "size": 2383,
+                        "size": 2384,
                         "path": "options.txt",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt"
                     }
