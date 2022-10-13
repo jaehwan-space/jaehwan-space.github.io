@@ -14,7 +14,7 @@
             "name": "핵전쟁 이벤트 매치",
             "description": "Nuclearwar Event Match Server",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.0.1",
+            "version": "1.0.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -302,7 +302,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 3540113,
-                        "MD5": "ba8d7244b01f4ec2b34b464b7d424917",
+                        "MD5": "c19c164c31e2a03c2a4afd70745527a2",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarReturns-1.12.2-4.3.1-client.jar"
                     }
                 }, {
