@@ -1,0 +1,31 @@
+{
+  "guiScale": 2,
+  "hudScale": 2,
+  "tooltipScale": 2,
+  "customIndividualGuiScales": {},
+  "customGroupGuiScales": {},
+  "loggedGuiClassNames": [
+    "net.minecraft.client.gui.GuiScreenOptionsSounds",
+    "v.v.v.e.K",
+    "net.minecraft.client.gui.GuiScreenAddServer",
+    "net.minecraft.client.gui.GuiDisconnected",
+    "v.v.v.e.j",
+    "net.minecraft.client.gui.GuiControls",
+    "v.v.v.e.c",
+    "lumien.custommainmenu.gui.GuiCustom",
+    "net.minecraft.client.gui.GuiMultiplayer",
+    "net.minecraft.client.multiplayer.GuiConnecting",
+    "net.minecraft.client.gui.GuiDownloadTerrain",
+    "net.minecraft.client.gui.inventory.GuiContainerCreative",
+    "creo.mod.koreanchat.GuiKoreanChat",
+    "net.minecraftforge.fml.client.config.GuiConfig",
+    "net.minecraft.client.gui.inventory.GuiInventory",
+    "g.g.g.r.b",
+    "net.minecraft.client.gui.GuiIngameMenu",
+    "net.minecraft.client.gui.GuiOptions",
+    "net.minecraft.client.gui.GuiVideoSettings",
+    "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
+  ],
+  "blacklistGuiClassNames": [],
+  "dynamicGuiScales": []
+}
