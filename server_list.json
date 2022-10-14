@@ -12,7 +12,7 @@
     "servers": [{
             "id": "Nuclearwar_Event_Match",
             "name": "핵전쟁 이벤트 매치",
-            "description": "Nuclearwar Event Match Server(4일차)",
+            "description": "Nuclearwar Event Match Server (4일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
             "version": "1.4.0",
             "address": "server.jaehwan.space:25565",
@@ -1943,7 +1943,7 @@
         }, {
             "id": "Nuclearwar_Event_Match_1280",
             "name": "핵전쟁 이벤트 매치 (해상도 1280)",
-            "description": "해상도 1280으로 설정되어 있습니다.(4일차)",
+            "description": "해상도 1280으로 설정되어 있습니다. (4일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon2.png",
             "version": "1.4.0",
             "address": "server.jaehwan.space:25565",
