@@ -12,9 +12,9 @@
     "servers": [{
             "id": "Nuclearwar_Event_Match",
             "name": "핵전쟁 이벤트 매치",
-            "description": "Nuclearwar Event Match Server",
+            "description": "Nuclearwar Event Match Server(4일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.0.0",
+            "version": "1.4.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -405,7 +405,7 @@
                     "name": "music-minigame",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 16958426,
                         "path": "music/minigame.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/minigame.wav"
                     }
@@ -414,7 +414,7 @@
                     "name": "music-open",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 22267624,
                         "path": "music/open.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/open.wav"
                     }
@@ -423,7 +423,7 @@
                     "name": "music-play",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 19990584,
                         "path": "music/play.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/play.wav"
                     }
@@ -432,7 +432,7 @@
                     "name": "music-over",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 1252978,
                         "path": "music/over.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/over.wav"
                     }
@@ -441,16 +441,25 @@
                     "name": "music-war",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 22819316,
                         "path": "music/war.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war.wav"
                     }
                 }, {
+                    "id": "music-war2",
+                    "name": "music-war2",
+                    "type": "File",
+                    "artifact": {
+                        "size": 9832448,
+                        "path": "music/war2.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war2.wav"
+                    }
+                },{
                     "id": "music-1",
                     "name": "music-1",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 674016,
                         "path": "music/1.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/1.wav"
                     }
@@ -459,7 +468,7 @@
                     "name": "music-2",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 479792,
                         "path": "music/2.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/2.wav"
                     }
@@ -468,7 +477,7 @@
                     "name": "music-3",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 894746,
                         "path": "music/3.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/3.wav"
                     }
@@ -477,7 +486,7 @@
                     "name": "music-4",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 294386,
                         "path": "music/4.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/4.wav"
                     }
@@ -1896,7 +1905,8 @@
                     "name": "Default Client Options",
                     "type": "File",
                     "artifact": {
-                        "size": 2384,
+                        "size": 2383,
+						"MD5": "e17964ad4b66d5cb0a7afc8ae056d5ac",
                         "path": "options.txt",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt"
                     }
@@ -1933,9 +1943,9 @@
         }, {
             "id": "Nuclearwar_Event_Match_1280",
             "name": "핵전쟁 이벤트 매치 (해상도 1280)",
-            "description": "해상도 1280으로 설정되어 있습니다.",
+            "description": "해상도 1280으로 설정되어 있습니다.(4일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon2.png",
-            "version": "1.0.0",
+            "version": "1.4.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -2326,7 +2336,7 @@
                     "name": "music-minigame",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 16958426,
                         "path": "music/minigame.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/minigame.wav"
                     }
@@ -2335,7 +2345,7 @@
                     "name": "music-open",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 22267624,
                         "path": "music/open.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/open.wav"
                     }
@@ -2344,7 +2354,7 @@
                     "name": "music-play",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 19990584,
                         "path": "music/play.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/play.wav"
                     }
@@ -2353,7 +2363,7 @@
                     "name": "music-over",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 1252978,
                         "path": "music/over.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/over.wav"
                     }
@@ -2362,16 +2372,25 @@
                     "name": "music-war",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 22819316,
                         "path": "music/war.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war.wav"
                     }
                 }, {
+                    "id": "music-war2",
+                    "name": "music-war2",
+                    "type": "File",
+                    "artifact": {
+                        "size": 9832448,
+                        "path": "music/war2.wav",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war2.wav"
+                    }
+                },{
                     "id": "music-1",
                     "name": "music-1",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 674016,
                         "path": "music/1.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/1.wav"
                     }
@@ -2380,7 +2399,7 @@
                     "name": "music-2",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 479792,
                         "path": "music/2.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/2.wav"
                     }
@@ -2389,7 +2408,7 @@
                     "name": "music-3",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 894746,
                         "path": "music/3.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/3.wav"
                     }
@@ -2398,7 +2417,7 @@
                     "name": "music-4",
                     "type": "File",
                     "artifact": {
-                        "size": 6581,
+                        "size": 294386,
                         "path": "music/4.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/4.wav"
                     }
@@ -3817,7 +3836,8 @@
                     "name": "Default Client Options",
                     "type": "File",
                     "artifact": {
-                        "size": 2384,
+                        "size": 2383,
+						"MD5": "e17964ad4b66d5cb0a7afc8ae056d5ac",
                         "path": "options.txt",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt"
                     }
