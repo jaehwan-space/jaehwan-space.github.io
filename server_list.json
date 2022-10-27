@@ -297,13 +297,13 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:Nuclearwarmod:4.7-1.12.2",
+                    "id": "com.chickenskin:Nuclearwarmod:4.8-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 3638628,
-                        "MD5": "531934f09fcb1bbe54b1358e4a8a273e",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-4.7-client.jar"
+                        "size": 3639234,
+                        "MD5": "1b7699dd5bb86ca3f4d712f467309652",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-4.8-client.jar"
                     }
                 },{
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
@@ -2241,13 +2241,13 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:Nuclearwarmod:4.7-1.12.2",
+                    "id": "com.chickenskin:Nuclearwarmod:4.8-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 3638628,
-                        "MD5": "531934f09fcb1bbe54b1358e4a8a273e",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-4.7-client.jar"
+                        "size": 3639234,
+                        "MD5": "1b7699dd5bb86ca3f4d712f467309652",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-4.8-client.jar"
                     }
                 },{
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
