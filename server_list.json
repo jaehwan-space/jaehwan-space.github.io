@@ -2249,7 +2249,7 @@
                         "MD5": "7537cb4b1b8c95ae139c23ec403ad2dd",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-5.7-client.jar"
                     }
-                }{
+                },{
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
                     "name": "chunkt",
                     "type": "ForgeMod",
