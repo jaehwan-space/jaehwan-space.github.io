@@ -12,9 +12,9 @@
     "servers": [{
             "id": "Nuclearwar_Event_Match",
             "name": "핵전쟁 이벤트 매치",
-            "description": "Nuclearwar Event Match Server (9일차)",
+            "description": "Nuclearwar Event Match Server (10일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.9.0",
+            "version": "1.10.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -297,13 +297,13 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:Nuclearwarmod:6.1-1.12.2",
+                    "id": "com.chickenskin:Nuclearwarmod:6.7.1-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 3727209,
-                        "MD5": "7617ce11e8b6dae942c9290f9e8b61f8",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-6.1-client.jar"
+                        "size": 4106333,
+                        "MD5": "6ea362d6a204c4e4c561a74d8c9a37d9",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-6.7.1-client.jar"
                     }
                 },{
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
@@ -1956,9 +1956,9 @@
         }, {
             "id": "Nuclearwar_Event_Match_1280",
             "name": "핵전쟁 이벤트 매치 (해상도 1280)",
-            "description": "해상도 1280으로 설정되어 있습니다. (9일차)",
+            "description": "해상도 1280으로 설정되어 있습니다. (10일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon2.png",
-            "version": "1.9.0",
+            "version": "1.10.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -2241,13 +2241,13 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:Nuclearwarmod:6.1-1.12.2",
+                    "id": "com.chickenskin:Nuclearwarmod:6.7.1-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 3727209,
-                        "MD5": "7617ce11e8b6dae942c9290f9e8b61f8",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-6.1-client.jar"
+                        "size": 4106333,
+                        "MD5": "6ea362d6a204c4e4c561a74d8c9a37d9",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-6.7.1-client.jar"
                     }
                 },{
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
