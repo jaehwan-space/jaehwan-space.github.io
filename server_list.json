@@ -12,9 +12,9 @@
     "servers": [{
             "id": "Nuclearwar_Event_Match",
             "name": "핵전쟁 이벤트 매치",
-            "description": "Nuclearwar Event Match Server (11일차)",
+            "description": "Nuclearwar Event Match Server (12일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon1.png",
-            "version": "1.11.0",
+            "version": "1.12.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -297,15 +297,15 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:Nuclearwarmod:6.7.2-1.12.2",
+                    "id": "com.chickenskin:Nuclearwarmod:7.0-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 4106842,
-                        "MD5": "42dd3a0edc625803266cdd818b191c34",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-6.7.2-client.jar"
+                        "size": 4211499,
+                        "MD5": "9c2bbc36f1fd819d16aaf2e425442d34",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-7.0-client.jar"
                     }
-                },{
+                }, {
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
                     "name": "chunkt",
                     "type": "ForgeMod",
@@ -463,13 +463,13 @@
                         "path": "music/war2.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war2.wav"
                     }
-                },{
+                }, {
                     "id": "music-1",
                     "name": "music-1",
                     "type": "File",
                     "artifact": {
                         "size": 674016,
-						"MD5": "93ff982846b0fa83d82113d9dc8b831e",
+                        "MD5": "93ff982846b0fa83d82113d9dc8b831e",
                         "path": "music/1.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/1.wav"
                     }
@@ -479,7 +479,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 479792,
-						"MD5": "536308c9cd51248eee53e8eca2329e5a",
+                        "MD5": "536308c9cd51248eee53e8eca2329e5a",
                         "path": "music/2.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/2.wav"
                     }
@@ -489,7 +489,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 894746,
-						"MD5": "87d7d06f392efb75d540e624d1b01d99",
+                        "MD5": "87d7d06f392efb75d540e624d1b01d99",
                         "path": "music/3.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/3.wav"
                     }
@@ -499,7 +499,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 294386,
-						"MD5": "025fc609d2bcee28dffa496fa91bf33f",
+                        "MD5": "025fc609d2bcee28dffa496fa91bf33f",
                         "path": "music/4.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/4.wav"
                     }
@@ -1919,7 +1919,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 2383,
-						"MD5": "e17964ad4b66d5cb0a7afc8ae056d5ac",
+                        "MD5": "e17964ad4b66d5cb0a7afc8ae056d5ac",
                         "path": "options.txt",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt"
                     }
@@ -1956,7 +1956,7 @@
         }, {
             "id": "Nuclearwar_Event_Match_1280",
             "name": "핵전쟁 이벤트 매치 (해상도 1280)",
-            "description": "해상도 1280으로 설정되어 있습니다. (11일차)",
+            "description": "해상도 1280으로 설정되어 있습니다. (12일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon2.png",
             "version": "1.10.0",
             "address": "server.jaehwan.space:25565",
@@ -2241,15 +2241,15 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/musicplay-1.12.2-181229.jar"
                     }
                 }, {
-                    "id": "com.chickenskin:Nuclearwarmod:6.7.2-1.12.2",
+                    "id": "com.chickenskin:Nuclearwarmod:7.0-1.12.2",
                     "name": "NuclearWarReturns",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 4106842,
-                        "MD5": "42dd3a0edc625803266cdd818b191c34",
-                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-6.7.2-client.jar"
+                        "size": 4211499,
+                        "MD5": "9c2bbc36f1fd819d16aaf2e425442d34",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-7.0-client.jar"
                     }
-                },{
+                },  {
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
                     "name": "chunkt",
                     "type": "ForgeMod",
@@ -2407,13 +2407,13 @@
                         "path": "music/war2.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/war2.wav"
                     }
-                },{
+                }, {
                     "id": "music-1",
                     "name": "music-1",
                     "type": "File",
                     "artifact": {
                         "size": 674016,
-						"MD5": "93ff982846b0fa83d82113d9dc8b831e",
+                        "MD5": "93ff982846b0fa83d82113d9dc8b831e",
                         "path": "music/1.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/1.wav"
                     }
@@ -2423,7 +2423,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 479792,
-						"MD5": "536308c9cd51248eee53e8eca2329e5a",
+                        "MD5": "536308c9cd51248eee53e8eca2329e5a",
                         "path": "music/2.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/2.wav"
                     }
@@ -2433,7 +2433,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 894746,
-						"MD5": "87d7d06f392efb75d540e624d1b01d99",
+                        "MD5": "87d7d06f392efb75d540e624d1b01d99",
                         "path": "music/3.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/3.wav"
                     }
@@ -2443,7 +2443,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 294386,
-						"MD5": "025fc609d2bcee28dffa496fa91bf33f",
+                        "MD5": "025fc609d2bcee28dffa496fa91bf33f",
                         "path": "music/4.wav",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/music/4.wav"
                     }
@@ -3863,7 +3863,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 2383,
-						"MD5": "e17964ad4b66d5cb0a7afc8ae056d5ac",
+                        "MD5": "e17964ad4b66d5cb0a7afc8ae056d5ac",
                         "path": "options.txt",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/options.txt"
                     }
