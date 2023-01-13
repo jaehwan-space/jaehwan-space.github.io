@@ -1976,7 +1976,7 @@
             "name": "핵전쟁 이벤트 매치 (해상도 1280)",
             "description": "해상도 1280으로 설정되어 있습니다. (14일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon2.png",
-            "version": "1.13.0",
+            "version": "1.14.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
