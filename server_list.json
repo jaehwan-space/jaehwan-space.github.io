@@ -1976,7 +1976,7 @@
             "name": "핵전쟁 이벤트 매치 (해상도 1280)",
             "description": "해상도 1280으로 설정되어 있습니다. (14일차)",
             "icon": "https://jaehwan-space.github.io/nuclearwar_event/server_icon2.png",
-            "version": "1.14.0",
+            "version": "1.1.0",
             "address": "server.jaehwan.space:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -2267,7 +2267,7 @@
                         "MD5": "cb5d52fe9479f58112bf8dd8f5ded7ea",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-7.0.2-client.jar"
                     }
-                }  {
+                },  {
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
                     "name": "chunkt",
                     "type": "ForgeMod",
