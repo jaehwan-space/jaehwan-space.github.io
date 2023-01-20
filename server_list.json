@@ -563,6 +563,7 @@
                             "type": "File",
                             "artifact": {
                                 "size": 2046838,
+								"MD5": "433adf280a7f81a44c0a32888670ab48",
                                 "path": "resources/mianmeun/background/0.png",
                                 "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.1.0/resources/mianmeun/background/0.png"
                             }
