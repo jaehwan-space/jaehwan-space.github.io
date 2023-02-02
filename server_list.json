@@ -306,6 +306,15 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-7.0.4-client.jar"
                     }
                 }, {
+                    "id": "com.chickenskin:PhotoDialogue:0.1-1.12.2",
+                    "name": "PhotoDialogue",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 147357,
+                        "MD5": "fcdb7b93034c8b7327a5a996a2e39b06",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/PhotoDialogue-0.1-client.jar"
+                    }
+                },{
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
                     "name": "chunkt",
                     "type": "ForgeMod",
@@ -2434,6 +2443,15 @@
                         "size": 4236435,
                         "MD5": "8a0dc4ffbc337af5b29461429b5ccbe2",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/NuclearWarEvents-7.0.4-client.jar"
+                    }
+                },{
+                    "id": "com.chickenskin:PhotoDialogue:0.1-1.12.2",
+                    "name": "PhotoDialogue",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 147357,
+                        "MD5": "fcdb7b93034c8b7327a5a996a2e39b06",
+                        "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/PhotoDialogue-0.1-client.jar"
                     }
                 }, {
                     "id": "com.chickenskin:chunkt:1.0.1-1.12.2",
