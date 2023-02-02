@@ -369,7 +369,7 @@
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
                     }
                 }, {
-                    "id": "riskyken:Armourers-Workshop:0.51.0-1.12.2",
+                    "id": "riskyken:Armourers-Workshop:1.12.2-0.51.0",
                     "name": "Armourers-Workshop",
                     "type": "ForgeMod",
                     "artifact": {
@@ -2498,8 +2498,8 @@
                         "MD5": "95972f3086e6ad296fce33df87f6fbf3",
                         "url": "https://jaehwan-space.github.io/nuclearwar_event/files/v1.0.0/mods/VideoView-1.12.2-200507.jar"
                     }
-                }, {
-                    "id": "riskyken:Armourers-Workshop:0.51.0-1.12.2",
+                },{
+                    "id": "riskyken:Armourers-Workshop:1.12.2-0.51.0",
                     "name": "Armourers-Workshop",
                     "type": "ForgeMod",
                     "artifact": {
